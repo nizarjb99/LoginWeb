@@ -1,0 +1,9 @@
+#app {
+min-width: 400px;
+}
+
+.fbox {
+display: flex;        /* corregit: abans era flexbox */
+flex-wrap: wrap;
+align-items: flex-end;
+}
